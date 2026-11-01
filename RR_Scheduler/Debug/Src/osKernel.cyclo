@@ -1,0 +1,7 @@
+D:/Downloads/BuildYourOwnRTOS/RTOS/0_led_driver/chip_headers/CMSIS/Include/core_cm4.h:1814:22:__NVIC_SetPriority	2
+../Src/osKernel.c:32:6:osKernelStackInit	1
+../Src/osKernel.c:57:9:osKernelAddThreads	1
+../Src/osKernel.c:90:6:osKernelInit	1
+../Src/osKernel.c:95:6:osKernelLaunch	1
+../Src/osKernel.c:122:29:SysTick_Handler	1
+../Src/osKernel.c:163:6:osSchedulerLaunch	1
